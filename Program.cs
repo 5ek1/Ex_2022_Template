@@ -9,5 +9,7 @@ namespace Ex_2022_Template
             var age = InputUtility.InputNumber("Age:", 120);
             Console.WriteLine($"Hello {name}! \n U are {age} yeaes old.");
         }
+
+        //Classを書きます
     }
 }
